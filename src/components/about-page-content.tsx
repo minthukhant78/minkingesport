@@ -95,7 +95,7 @@ export function AboutPageContent() {
             <div className="grid md:grid-cols-2">
               <div className="relative h-64 md:h-full">
                 <Image
-                  src="https://placehold.co/800x600.png"
+                  src="https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg"
                   alt="Our Story"
                   fill
                   className="object-cover"
@@ -132,7 +132,7 @@ export function AboutPageContent() {
                 <p className="text-sm text-muted-foreground mt-6 mb-2">Example Clan War Plan:</p>
                 <div className="relative aspect-video w-full overflow-hidden rounded-lg bg-secondary">
                     <iframe
-                        src={`https://www.youtube.com/embed/eB_3w3Ff13k?controls=1&autoplay=0`}
+                        src={"https://www.youtube.com/watch?v=Jj0HwjI8d6o"}
                         title="YouTube video player"
                         frameBorder="0"
                         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
